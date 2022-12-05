@@ -8,7 +8,7 @@ In addition to working cases, in my portfolio you can find competitive projects 
 I created this repository to showcase my hard skills and track my progress in Data Analytics / Data Science.
 
 # Portfolio Projects
-- ... Project (Scraping, EDA, Power BI)
+- [a Car Price Predict](other_file.md) (Scraping, EDA, Power BI)
 - F.... Project (SQL, Python)
 - ... Price Predict (EDA, Feature Engineering, Machine Learning)
 - ..... Management (SQL, EDA, Plotly Dash)
