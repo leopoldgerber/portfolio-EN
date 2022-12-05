@@ -1,2 +1,1 @@
-# portfolio
-Personal projects to show my hard skills
+# Leopold Gerber - Data Analytics | Data Scientist Portfolio
