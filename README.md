@@ -10,14 +10,18 @@ I created this repository to showcase my hard skills and track my progress in Da
 # Portfolio Projects
 - Scraping (Scraping, EDA, Power BI)
 - F.... Project (SQL, Python)
-- [Car Price Predict](# Project Car Price Predict)
+- [Car Price Predict](#project-car-price-predict)
 - [Car Price Predict](Project%20Car%20Price%20Predict.ipynb) (EDA, Feature Engineering, Machine Learning)
 - ..... Management (SQL, EDA, Plotly Dash)
 
 
 
 
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+
+
+
+
+
 
 
 
@@ -39,11 +43,3 @@ Hello, this is some text to fill in this, [here](#place-2), is a link to the sec
 
 
 1. #Project Car Price Predict
-
-## Title
-
-### Place 1
-
-
-
-### Place 2
