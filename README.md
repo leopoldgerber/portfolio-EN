@@ -17,4 +17,8 @@ I created this repository to showcase my hard skills and track my progress in Da
 
 ### Project Car Price Predict
 [Notebook](Project%20Car%20Price%20Predict.ipynb)
-#### Description:
+#### Description: 
+##### The poject contains three datasets: a natural dataset that has been filled since 2014, a parsed dataset from 2019 and a test dataset from 2021. The total number of records is 254265. All three datasets have different values within the attributes/columns (according to the test dataset the columns count ~ 27). The project includes the following steps: import necessary libraries, defining the main functions, data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing the statistical significance (One-Way Anova), hypothesis testing (F-critical, T-critical and p-value - three methods included), measuring statistical factors, feature engineering, data visualization, testing ML models .
+Skills: data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.
+Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.
+Results: Review of the global and regional video games markets, data-based business recommendations
