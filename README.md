@@ -10,7 +10,7 @@ I created this repository to showcase my hard skills and track my progress in Da
 # Portfolio Projects
 - Scraping (Scraping, EDA, Power BI)
 - F.... Project (SQL, Python)
-- [Car Price Predict](#Project Car Price Predict)
+- [Car Price Predict](# Project Car Price Predict)
 - [Car Price Predict](Project%20Car%20Price%20Predict.ipynb) (EDA, Feature Engineering, Machine Learning)
 - ..... Management (SQL, EDA, Plotly Dash)
 
