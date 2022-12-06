@@ -14,32 +14,7 @@ I created this repository to showcase my hard skills and track my progress in Da
 - [Car Price Predict](Project%20Car%20Price%20Predict.ipynb) (EDA, Feature Engineering, Machine Learning)
 - ..... Management (SQL, EDA, Plotly Dash)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Description
 
-
 #### Project Car Price Predict
+[Notebook](Project%20Car%20Price%20Predict.ipynb)
