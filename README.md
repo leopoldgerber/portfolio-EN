@@ -15,7 +15,7 @@ I created this repository to showcase my hard skills and track my progress in Da
 
 # Portfolio Projects
 
-## Project Car Price Predict
+### Project Car Price Predict
 <code>[Notebook](Project%20Car%20Price%20Predict.ipynb)</code>
 <br>
 <ins>**Description:**</ins> The poject contains three datasets: a natural dataset that has been filled since 2014, a parsed dataset from 2019 and a test dataset from 2021. The total number of records is 254265. All three datasets have different values within the attributes/columns (according to the test dataset the columns count ~ 27). The project includes the following steps: import necessary libraries, defining the main functions, data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing the statistical significance (One-Way Anova), hypothesis testing (F-critical, T-critical and p-value - three methods included), measuring statistical factors, finding outliers, feature engineering, data visualization, testing five ML models with MAPE. Participation in the kaggle competition.
