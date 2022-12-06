@@ -15,6 +15,26 @@ I created this repository to showcase my hard skills and track my progress in Da
 - ..... Management (SQL, EDA, Plotly Dash)
 
 
+
+
+Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Description
 
 
@@ -24,6 +44,6 @@ I created this repository to showcase my hard skills and track my progress in Da
 
 ### Place 1
 
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+
 
 ### Place 2
