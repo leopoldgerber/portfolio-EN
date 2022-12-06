@@ -10,12 +10,12 @@ I created this repository to showcase my hard skills and track my progress in Da
 # Content Table
 - Scraping (Scraping, EDA, Power BI)
 - F.... Project (SQL, Python)
-- [Car Price Predict](#project-car-price-predict) (EDA, Feature Engineering, Machine Learning)
+- [Car Price Predict](#car-price-predict) (EDA, Feature Engineering, Machine Learning)
 - ..... Management (SQL, EDA, Plotly Dash)
 
 # Portfolio Projects
 
-### Project Car Price Predict
+### Car Price Predict
 <code>[Notebook](Project%20Car%20Price%20Predict.ipynb)</code>
 <br>
 <ins>**Description:**</ins> The poject contains three datasets: a natural dataset that has been filled since 2014, a parsed dataset from 2019 and a test dataset from 2021. The total number of records is 254265. All three datasets have different values within the attributes/columns (according to the test dataset the columns count ~ 27). The project includes the following steps: import necessary libraries, defining the main functions, data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing the statistical significance (One-Way Anova), hypothesis testing (F-critical, T-critical and p-value - three methods included), measuring statistical factors, finding outliers, feature engineering, data visualization, testing five ML models with MAPE. Participation in the kaggle competition.
@@ -25,3 +25,51 @@ I created this repository to showcase my hard skills and track my progress in Da
 <ins>**Technology:**</ins> Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels, Sklearn, CatBoost, RandomForestRegressor, ExtraTreesRegressor, XGBRegressor, StackingRegressor.
 <br>
 <ins>**Results:**</ins> A predictive model has been created, the speed of processing requests has increased - resulting in increased profits.
+
+
+### Sales Management
+<code>[Notebook](Project%20Car%20Price%20Predict.ipynb)</code>
+<br>
+<ins>**Description:**</ins> The poject contains three datasets: a natural dataset that has been filled since 2014, a parsed dataset from 2019 and a test dataset from 2021. The total number of records is 254265. All three datasets have different values within the attributes/columns (according to the test dataset the columns count ~ 27). The project includes the following steps: import necessary libraries, defining the main functions, data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing the statistical significance (One-Way Anova), hypothesis testing (F-critical, T-critical and p-value - three methods included), measuring statistical factors, finding outliers, feature engineering, data visualization, testing five ML models with MAPE. Participation in the kaggle competition.
+<br>
+<ins>**Skills:**</ins> data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization, feature engineering, machine learning.
+<br>
+<ins>**Technology:**</ins> SQL (SSMS, clearing tables), Python (data preprocessing, data preparation for the dashboard), Jupyter Lab (creating the plotly dash app)
+Power BI (Creating an interactive dashboard)
+Heroku (Upload the Plotly Dash App)
+Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels, Sklearn, CatBoost, RandomForestRegressor, ExtraTreesRegressor, XGBRegressor, StackingRegressor.
+<br>
+<ins>**Results:**</ins> A predictive model has been created, the speed of processing requests has increased - resulting in increased profits.
+
+Search for the necessary data at the request of the customer.
+
+Used libraries:
+  - pandas
+  - numpy
+  - seaborn
+  - itertools
+  - matplotlib
+  - dash
+  - plotly.express
+
+# Datasets Information
+
+Dataset -- customers -- includes 18484 entries.
+<br />
+Dataset -- sales -- includes 58168 entries.
+<br />
+Dataset -- products -- includes 606 entries.
+<br />
+Dataset -- calendar -- includes 1096 entries.
+
+# Search
+
+  - The data has been processed and cleared of unnecessary columns
+  - The percentage of missing information was also checked.
+  - Empty values have been partially restored. But some of the empty values had to be removed due to the lack of information on the prodcuts. Attempts were made to search for the same product by name, product id and categories.
+  - Some of the empty values in the product value column were restored by finding the average value found using the general category and subcategory of similar products.
+  - Datasets were combined with each other through special id keys
+  - The analysis revealed the age of the target audience.
+  - Cities with the highest demand are identified.
+  - Identified products with the maximum demand for the general indicators and in each subcategory separately.
+  - Create an interactive dashboard as an app and in Power BI
