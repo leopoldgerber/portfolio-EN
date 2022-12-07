@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[13]:
-
-
 #================ LIBRARIES ================
 
 import mysql.connector
@@ -551,10 +545,3 @@ dataframes = [report_name_1, report_name_2_4, report_name_5]
 dataframes_to_excel(dataframes, 'Лист 2', 'C:/Users/*****/report_name_' + str(date.today()) +'.xlsx', 1)
 
 print('================ report_name - FINISH')
-
-
-# In[ ]:
-
-
-
-
