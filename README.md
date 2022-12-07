@@ -33,7 +33,7 @@ I created this repository to showcase my hard skills and track my progress in Da
 <br>
 <ins>**Skills:**</ins> SQL Query, report automation.
 <br>
-<ins>**Technology:**</ins> Python, Pandas, Numpy, BeautifulSoup, mysql.connector, openpyxl, MySQL.
+<ins>**Technology:**</ins> Python, Pandas, Numpy, mysql.connector, openpyxl, MySQL.
 <br>
 <ins>**Results:**</ins> Creation of a script to automate reporting.
 
