@@ -26,6 +26,17 @@ I created this repository to showcase my hard skills and track my progress in Da
 <br>
 <ins>**Results:**</ins> A predictive model has been created, the speed of processing requests has increased - resulting in increased profits.
 
+### Report Automation
+<code>[Script](Project%20Car%20Price%20Predict.ipynb)</code>
+<br>
+<ins>**Description:**</ins> The company had to prepare reports for the national bank of the country. To avoid having to collect the report manually every weekend, I was instructed to collect the main queries according to the criteria satisfactory to the bank. It was also necessary to write a script, combining all query results into a single dataset, which would recalculate trade operations according to the national currency rate with the help of parsing and output a ready excel report. At the same time to set up a cheat sheet which bypassed the use of python path through cmd (company policy) - the solution was to run the compiler through a .bat file with the script I had written.
+<br>
+<ins>**Skills:**</ins> SQL Query, .
+<br>
+<ins>**Technology:**</ins> Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels, Sklearn, CatBoost, RandomForestRegressor, ExtraTreesRegressor, XGBRegressor, StackingRegressor.
+<br>
+<ins>**Results:**</ins> A predictive model has been created, the speed of processing requests has increased - resulting in increased profits.
+
 
 ### Sales Management
 <code>[Notebook](Project%20Car%20Price%20Predict.ipynb)</code>
