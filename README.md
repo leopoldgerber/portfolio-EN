@@ -28,7 +28,6 @@ I created this repository to showcase my hard skills and track my progress in Da
 
 ### Marketing Web Scraping 
 <code>[Script](Project%20Car%20Price%20Predict.ipynb)</code>
-<code>[Notebook](Project%20Car%20Price%20Predict.ipynb)</code>
 <code>[Dashboard](Project%20Car%20Price%20Predict.ipynb)</code>
 <br>
 <ins>**Description:**</ins> Parser script that collects data from Semrush platform without using API (banned at no additional cost). Prescribed script running chrome driver, authorization on the site and parsing all necessary reports (total number of single reports ~ 22 000), internal loops for entered months, fixing domains and month with empty reports, data processing and feature engineering (countries, companies and dates), collecting all reports by category (total number of collected reports - 5). 
