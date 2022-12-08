@@ -8,7 +8,7 @@ In addition to working cases, in my portfolio you can find competitive projects 
 I created this repository to showcase my hard skills and track my progress in Data Analytics / Data Science.
 
 # Content Table
-- Scraping (Scraping, EDA, Power BI)
+- [Marketing Web Scraping](#marketing-web-scraping) (Scraping, EDA, Power BI)
 - [Report Automation](#report-automation) (MySQL, Python)
 - [Car Price Predict](#car-price-predict) (EDA, Feature Engineering, Machine Learning)
 - ..... Management (SQL, EDA, Plotly Dash)
@@ -25,6 +25,19 @@ I created this repository to showcase my hard skills and track my progress in Da
 <ins>**Technology:**</ins> Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels, Sklearn, CatBoost, RandomForestRegressor, ExtraTreesRegressor, XGBRegressor, StackingRegressor.
 <br>
 <ins>**Results:**</ins> A predictive model has been created, the speed of processing requests has increased - resulting in increased profits.
+
+### Marketing Web Scraping 
+<code>[Script](Project%20Car%20Price%20Predict.ipynb)</code>
+<code>[Notebook](Project%20Car%20Price%20Predict.ipynb)</code>
+<br>
+<ins>**Description:**</ins> Parser script that collects data from Semrush platform without using API (banned at no additional cost). Prescribed script running chrome driver, authorization on the site and parsing all necessary reports (total number of single reports ~ 22 000), internal loops for entered months, fixing domains and month with empty reports, data processing and feature engineering (countries, companies and dates), collecting all reports by category (total number of collected reports - 5). 
+Creation of dashboard for visualization of received data.
+<br>
+<ins>**Skills:**</ins> data parser, data cleaning, feature engineering, data visualization.
+<br>
+<ins>**Technology:**</ins> Python, Pandas, Numpy, Selenium, Power BI.
+<br>
+<ins>**Results:**</ins> Automated collection of reports.  Visualized data - Dashboards. Thanks to parsing of historical data we managed to save on platform fees (monthly expenses for plan + tax and Traffic Analytics API + tax).
 
 ### Report Automation
 <code>[Script](Report%20Automation%20Script.py)</code>
