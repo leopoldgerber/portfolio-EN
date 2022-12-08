@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[115]:
-
-
 #=================== LIBRARIES START ===================
 from selenium.webdriver.common.action_chains import ActionChains #Для шаговых действий
 from selenium.webdriver.support import expected_conditions #Чтобы input не превратился в цикл
@@ -1319,10 +1313,3 @@ journey_sources()
 traffic_by_countries(def_amount, month_list)
 domains_company(def_start, def_end)
 #=================== OUTPUT END ===================
-
-
-# In[ ]:
-
-
-
-
