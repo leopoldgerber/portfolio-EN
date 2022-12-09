@@ -11,7 +11,7 @@ I created this repository to showcase my hard skills and track my progress in Da
 - [Marketing Web Scraping](#marketing-web-scraping) (Scraping, EDA, Power BI)
 - [Report Automation](#report-automation) (MySQL, Python)
 - [Car Price Predict](#car-price-predict) (EDA, Feature Engineering, Machine Learning)
-- ..... Management (SQL, EDA, Plotly Dash)
+- [Sales Management](#sales-management) (SQL, EDA, Plotly Dash)
 
 # Portfolio Projects
 
