@@ -58,42 +58,22 @@ Creation of dashboard for visualization of received data.
 <br>
 <ins>**Skills:**</ins> data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization, feature engineering, machine learning.
 <br>
-<ins>**Technology:**</ins> SQL (SSMS, clearing tables), Python (data preprocessing, data preparation for the dashboard), Jupyter Lab (creating the plotly dash app)
-Power BI (Creating an interactive dashboard)
-Heroku (Upload the Plotly Dash App)
-Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels, Sklearn, CatBoost, RandomForestRegressor, ExtraTreesRegressor, XGBRegressor, StackingRegressor.
+<ins>**Technology:**</ins> SQL (SSMS, clearing tables), Python (data preprocessing, data preparation for the dashboard, pandas, numpy, seaborn, itertools, matplotlib, dash, plotly.express), Jupyter Lab (creating the plotly dash app)
+Power BI (Creating an interactive dashboard), Heroku (Upload the Plotly Dash App)
 <br>
-<ins>**Results:**</ins> A predictive model has been created, the speed of processing requests has increased - resulting in increased profits.
-
-Search for the necessary data at the request of the customer.
-
-Used libraries:
-  - pandas
-  - numpy
-  - seaborn
-  - itertools
-  - matplotlib
-  - dash
-  - plotly.express
+<ins>**Results:**</ins> Knowing the key selling locations of products and their category, it is possible to properly place the products in warehouses. This optimizes logistics (products are not wasted in warehouses), reduces the cost of transporting products here and there, and the advantage over competitors (speed of delivery increases).
 
 # Datasets Information
-
-Dataset -- customers -- includes 18484 entries.
-<br />
-Dataset -- sales -- includes 58168 entries.
-<br />
-Dataset -- products -- includes 606 entries.
-<br />
-Dataset -- calendar -- includes 1096 entries.
-
-# Search
-
-  - The data has been processed and cleared of unnecessary columns
-  - The percentage of missing information was also checked.
-  - Empty values have been partially restored. But some of the empty values had to be removed due to the lack of information on the prodcuts. Attempts were made to search for the same product by name, product id and categories.
-  - Some of the empty values in the product value column were restored by finding the average value found using the general category and subcategory of similar products.
-  - Datasets were combined with each other through special id keys
-  - The analysis revealed the age of the target audience.
-  - Cities with the highest demand are identified.
-  - Identified products with the maximum demand for the general indicators and in each subcategory separately.
-  - Create an interactive dashboard as an app and in Power BI
+The project includes 4 datasets with the total number of rows 78 354 (customers, sales, products, calendar). Datasets contain information about online purchases, customers and product. Thanks to this we can find out the age of the target audience, the demand for products by customer, the local demand for product and much more. Two types of data visualization (dashboards) were created for convenience: in Power BI and HerokuApp
+</br>
+EDA (short):
+</br>
+- The data has been processed and cleared of unnecessary columns
+- The percentage of missing information was also checked.
+- Empty values have been partially restored. But some of the empty values had to be removed due to the lack of information on the prodcuts. Attempts were made to search for the same product by name, product id and categories.
+- Some of the empty values in the product value column were restored by finding the average value found using the general category and subcategory of similar products.
+- Datasets were combined with each other through special id keys
+- The analysis revealed the age of the target audience.
+- Cities with the highest demand are identified.
+- Identified products with the maximum demand for the general indicators and in each subcategory separately.
+- Create an interactive dashboard as an app and in Power BI
