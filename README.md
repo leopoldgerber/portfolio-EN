@@ -63,7 +63,7 @@ Power BI (Creating an interactive dashboard), Heroku (Upload the Plotly Dash App
 <br>
 <ins>**Results:**</ins> Knowing the key selling locations of products and their category, it is possible to properly place the products in warehouses. This optimizes logistics (products are not wasted in warehouses), reduces the cost of transporting products here and there, and the advantage over competitors (speed of delivery increases).
 </br>
-EDA (short):
+<ins>**EDA (short):**</ins>
 </br>
 - The data has been processed and cleared of unnecessary columns
 - The percentage of missing information was also checked.
