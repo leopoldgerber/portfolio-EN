@@ -53,6 +53,7 @@ Creation of dashboard for visualization of received data.
 
 ### Sales Management
 <code>[Notebook](Sales%20Management.ipynb)</code>
+<code>[Plotly Dash](PlotlyDash)</code>
 <br>
 <ins>**Description:**</ins> The project includes 4 datasets with the total number of rows 78 354 (customers, sales, products, calendar). Datasets contain information about online purchases, customers and product. Thanks to this we can find out the age of the target audience, the demand for products by customer, the local demand for product and much more. Two types of data visualization (dashboards) were created for convenience: in Power BI and HerokuApp.
 <br>
