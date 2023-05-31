@@ -9,7 +9,7 @@ I created this repository to showcase my hard skills and track my progress in Da
 
 # Content Table
 - [1 - Marketing Web Scraping](#marketing-web-scraping) (Scraping, EDA, Power BI)
-- [2 - Car Price Predict](#car-price-predict) (EDA, Feature Engineering, Machine Learning)
+- [2 - Car Price Predict](#2-car-price-predict) (EDA, Feature Engineering, Machine Learning)
 - [3 - Report Automation](#report-automation) (MySQL, Python)
 - [4 - Sales Management](#sales-management) (SQL, EDA, Plotly Dash)
 
