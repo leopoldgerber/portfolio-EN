@@ -119,6 +119,4 @@ Knowing the key selling locations of products and their category, it is possible
 </br>
 
 ### 6 - Recommendation System
-<code>[Notebook 1: Analysis & Preprocessing](6%20-%20Recommendation%20System/1%20-%20Analysis%20&%20Preprocessing.ipynb)</code>
-<br>
-<code>[Notebook 2: ML Models](6%20-%20Recommendation%20System/2%20-%20ML%20Models.ipynb)</code>
+<code>[Notebook 1: Analysis & Preprocessing](6%20-%20Recommendation%20System/1%20-%20Analysis%20&%20Preprocessing.ipynb)</code> <code>[Notebook 2: ML Models](6%20-%20Recommendation%20System/2%20-%20ML%20Models.ipynb)</code>
