@@ -63,7 +63,7 @@ A predictive model has been created, the speed of processing requests has increa
 </br>
 
 ## 3 - Report Automation
-<code>[Script](3%20Report%20Automation%20Script.py)</code>
+<code>[Script](3%20-%20Report%20Automation%20Script/Report%20Automation%20Script.py)</code>
 
 ### - Description - 
 The National Bank issued a new decree on the reporting of trading operations of operating brokers in the country. To avoid manually assembling reports every weekend, I was instructed to collect the main queries according to the criteria satisfactory to the bank. It was also necessary to write a script, combining all query results into a single dataset, which would recalculate trade operations according to the national currency rate with the help of parsing and output a ready excel report. At the same time to set up a cheat sheet which bypassed the use of python path through cmd (company policy) - the solution was to run the compiler through a .bat file with the script I had written.
@@ -84,9 +84,9 @@ Creation of a script to automate reporting.
 </br>
 
 ### 4 - Sales Management
-<code>[Notebook](Sales%20Management.ipynb)</code>
-<code>[PlotlyDash (Files)](PlotlyDash)</code>
-<code>[Power BI](Sales%20Management%20Dashboard.pbix)</code>
+<code>[Notebook](4%20-%20Sales%20Management/Sales%20Management.ipynb)</code>
+<code>[PlotlyDash (Files)](4%20-%20Sales%20Management/Plotly%20Dash/index.py)</code>
+<code>[Power BI](4%20-%20Sales%20Management/Sales%20Management%20Dashboard.pbix)</code>
 
 ### - Description - 
 The project includes 4 datasets with the total number of rows 78 354 (customers, sales, products, calendar). Datasets contain information about online purchases, customers and product. Thanks to this we can find out the age of the target audience, the demand for products by customer, the local demand for product and much more. Two types of data visualization (dashboards) were created for convenience: in Power BI and HerokuApp.
