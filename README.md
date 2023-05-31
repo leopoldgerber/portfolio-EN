@@ -14,6 +14,7 @@ I created this repository to showcase my hard skills and track my progress in Da
 - [2 - Car Price Predict](#2---car-price-predict) (EDA, Feature Engineering, Machine Learning)
 - [3 - Report Automation](#3---report-automation) (MySQL, Python)
 - [4 - Sales Management](#4---sales-management) (SQL, EDA, Plotly Dash)
+- [6 - Recommendation System](#6---recommendation-system) (EDA, Feature Engineering, Machine Learning, Python)
 
 </br>
 
@@ -114,3 +115,10 @@ Knowing the key selling locations of products and their category, it is possible
 </br>
 
 [Scroll up](#content-table)
+
+</br>
+
+### 6 - Recommendation System
+<code>[Notebook: Analysis & Preprocessing](6%20-%20Recommendation%20System/1%20-%20Analysis%20&%20Preprocessing.ipynb)</code>
+<code>[PlotlyDash (Files)](PlotlyDash)</code>
+<code>[Power BI](Sales%20Management%20Dashboard.pbix)</code>
