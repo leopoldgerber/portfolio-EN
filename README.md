@@ -7,11 +7,15 @@ As an analyst, I've encountered all kinds of tasks, from unloading target groups
 In addition to working cases, in my portfolio you can find competitive projects on Kaggle, as well as training projects from data analysis courses.
 I created this repository to showcase my hard skills and track my progress in Data Analytics / Data Science.
 
+</br>
+
 # Content Table
 - [1 - Marketing Web Scraping](#1---marketing-web-scraping) (Scraping, EDA, Power BI)
 - [2 - Car Price Predict](#2---car-price-predict) (EDA, Feature Engineering, Machine Learning)
 - [3 - Report Automation](#3---report-automation) (MySQL, Python)
 - [4 - Sales Management](#4---sales-management) (SQL, EDA, Plotly Dash)
+
+</br>
 
 # Portfolio Projects
 ## 1 - Marketing Web Scraping 
@@ -30,6 +34,8 @@ data parser, data cleaning, feature engineering, data visualization
 ### - Technology -
 Python, Pandas, Numpy, Selenium, Power BI
 
+</br>
+
 ## 2 - Car Price Predict
 <code>[Notebook](Project%20Car%20Price%20Predict.ipynb)</code>
 
@@ -44,6 +50,8 @@ Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels, Sklearn, C
 
 ### - Results -
 A predictive model has been created, the speed of processing requests has increased - resulting in increased profits.
+
+</br>
 
 ## 3 - Report Automation
 <code>[Script](Report%20Automation%20Script.py)</code>
@@ -60,6 +68,7 @@ Python, Pandas, Numpy, mysql.connector, openpyxl, MySQL.
 ### - Results -
 Creation of a script to automate reporting.
 
+</br>
 
 ### 4 - Sales Management
 <code>[Notebook](Sales%20Management.ipynb)</code>
