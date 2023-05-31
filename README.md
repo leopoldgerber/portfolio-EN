@@ -57,6 +57,10 @@ A predictive model has been created, the speed of processing requests has increa
 
 </br>
 
+[Scroll up](#content-table)
+
+</br>
+
 ## 3 - Report Automation
 <code>[Script](Report%20Automation%20Script.py)</code>
 
@@ -71,6 +75,10 @@ Python, Pandas, Numpy, mysql.connector, openpyxl, MySQL.
 
 ### - Results -
 Creation of a script to automate reporting.
+
+</br>
+
+[Scroll up](#content-table)
 
 </br>
 
@@ -102,3 +110,7 @@ Knowing the key selling locations of products and their category, it is possible
 - Cities with the highest demand are identified.
 - Identified products with the maximum demand for the general indicators and in each subcategory separately.
 - Create an interactive dashboard as an app and in Power BI
+
+</br>
+
+[Scroll up](#content-table)
