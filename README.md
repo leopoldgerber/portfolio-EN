@@ -27,8 +27,8 @@ I created this repository to showcase my hard skills and track my progress in Da
 <ins>**Results:**</ins> A predictive model has been created, the speed of processing requests has increased - resulting in increased profits.
 
 ### Marketing Web Scraping 
-<code>[Script](Marketing%20Web%20Scraping.py)</code>
-<code>[Dashboard](Marketing%20Web%20Scraping%20Power%20BI%20Demo.pbix)</code>
+<code>[Script](Marketing%20Web%20Scraping/Marketing%20Web%20Scraping.py)</code>
+<code>[Dashboard](Marketing%20Web%20Scraping/Marketing%20Web%20Scraping%20Power%20BI%20Demo.pbix)</code>
 <br>
 <ins>**Description:**</ins> Parser script that collects data from Semrush platform without using API (banned at no additional cost). Prescribed script running chrome driver, authorization on the site and parsing all necessary reports (total number of single reports ~ 22 000), internal loops for entered months, fixing domains and month with empty reports, data processing and feature engineering (countries, companies and dates), collecting all reports by category (total number of collected reports - 5). 
 Creation of dashboard for visualization of received data.
