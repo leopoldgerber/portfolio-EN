@@ -8,25 +8,13 @@ In addition to working cases, in my portfolio you can find competitive projects 
 I created this repository to showcase my hard skills and track my progress in Data Analytics / Data Science.
 
 # Content Table
-- [Marketing Web Scraping](#marketing-web-scraping) (Scraping, EDA, Power BI)
-- [Report Automation](#report-automation) (MySQL, Python)
-- [Car Price Predict](#car-price-predict) (EDA, Feature Engineering, Machine Learning)
-- [Sales Management](#sales-management) (SQL, EDA, Plotly Dash)
+- [1 - Marketing Web Scraping](#marketing-web-scraping) (Scraping, EDA, Power BI)
+- [2 - Car Price Predict](#car-price-predict) (EDA, Feature Engineering, Machine Learning)
+- [3 - Report Automation](#report-automation) (MySQL, Python)
+- [4 - Sales Management](#sales-management) (SQL, EDA, Plotly Dash)
 
 # Portfolio Projects
-
-### Car Price Predict
-<code>[Notebook](Project%20Car%20Price%20Predict.ipynb)</code>
-<br>
-<ins>**Description:**</ins> The poject contains three datasets: a natural dataset that has been filled since 2014, a parsed dataset from 2019 and a test dataset from 2021. The total number of records is 254265. All three datasets have different values within the attributes/columns (according to the test dataset the columns count ~ 27). The project includes the following steps: import necessary libraries, defining the main functions, data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing the statistical significance (One-Way Anova), hypothesis testing (F-critical, T-critical and p-value - three methods included), measuring statistical factors, finding outliers, feature engineering, data visualization, testing five ML models with MAPE. Participation in the kaggle competition.
-<br>
-<ins>**Skills:**</ins> data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization, feature engineering, machine learning.
-<br>
-<ins>**Technology:**</ins> Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels, Sklearn, CatBoost, RandomForestRegressor, ExtraTreesRegressor, XGBRegressor, StackingRegressor.
-<br>
-<ins>**Results:**</ins> A predictive model has been created, the speed of processing requests has increased - resulting in increased profits.
-
-### Marketing Web Scraping 
+### 1- Marketing Web Scraping 
 <code>[Script](1%20-%20Marketing%20Web%20Scraping/Marketing%20Web%20Scraping.py)</code>
 <code>[Dashboard](1%20-%20Marketing%20Web%20Scraping/Marketing%20Web%20Scraping%20Power%20BI%20Demo.pbix)</code>
 <br>
@@ -39,7 +27,18 @@ Creation of dashboard for visualization of received data.
 <br>
 <ins>**Results:**</ins> Automated collection of reports.  Visualized data - Dashboards. Thanks to parsing of historical data we managed to save on platform fees (monthly expenses for plan + tax and Traffic Analytics API + tax).
 
-### Report Automation
+### 2 - Car Price Predict
+<code>[Notebook](Project%20Car%20Price%20Predict.ipynb)</code>
+<br>
+<ins>**Description:**</ins> The poject contains three datasets: a natural dataset that has been filled since 2014, a parsed dataset from 2019 and a test dataset from 2021. The total number of records is 254265. All three datasets have different values within the attributes/columns (according to the test dataset the columns count ~ 27). The project includes the following steps: import necessary libraries, defining the main functions, data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing the statistical significance (One-Way Anova), hypothesis testing (F-critical, T-critical and p-value - three methods included), measuring statistical factors, finding outliers, feature engineering, data visualization, testing five ML models with MAPE. Participation in the kaggle competition.
+<br>
+<ins>**Skills:**</ins> data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization, feature engineering, machine learning.
+<br>
+<ins>**Technology:**</ins> Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels, Sklearn, CatBoost, RandomForestRegressor, ExtraTreesRegressor, XGBRegressor, StackingRegressor.
+<br>
+<ins>**Results:**</ins> A predictive model has been created, the speed of processing requests has increased - resulting in increased profits.
+
+### 3 - Report Automation
 <code>[Script](Report%20Automation%20Script.py)</code>
 <br>
 <ins>**Description:**</ins> The National Bank issued a new decree on the reporting of trading operations of operating brokers in the country. To avoid manually assembling reports every weekend, I was instructed to collect the main queries according to the criteria satisfactory to the bank. It was also necessary to write a script, combining all query results into a single dataset, which would recalculate trade operations according to the national currency rate with the help of parsing and output a ready excel report. At the same time to set up a cheat sheet which bypassed the use of python path through cmd (company policy) - the solution was to run the compiler through a .bat file with the script I had written.
@@ -51,7 +50,7 @@ Creation of dashboard for visualization of received data.
 <ins>**Results:**</ins> Creation of a script to automate reporting.
 
 
-### Sales Management
+### 4 - Sales Management
 <code>[Notebook](Sales%20Management.ipynb)</code>
 <code>[PlotlyDash (Files)](PlotlyDash)</code>
 <code>[Power BI](Sales%20Management%20Dashboard.pbix)</code>
