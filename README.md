@@ -132,3 +132,7 @@ Python (data preprocessing, data preparation, feature engineering, ML models tes
 
 ### - Results - 
 Using technical metrics (MAP@K and RMSE), a model was selected for recommendations, and a cold start strategy was created. The model was wrapped in a web service and containerized. The map metric showed a result of 33%. The task is completed.
+
+</br>
+
+[Scroll up](#content-table)
