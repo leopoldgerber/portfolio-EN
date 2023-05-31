@@ -36,6 +36,10 @@ Python, Pandas, Numpy, Selenium, Power BI
 
 </br>
 
+[Scroll up](#content-table)
+
+</br>
+
 ## 2 - Car Price Predict
 <code>[Notebook](Project%20Car%20Price%20Predict.ipynb)</code>
 
