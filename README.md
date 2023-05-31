@@ -42,7 +42,7 @@ Python, Pandas, Numpy, Selenium, Power BI
 </br>
 
 ## 2 - Car Price Predict
-<code>[Notebook](Project%20Car%20Price%20Predict.ipynb)</code>
+<code>[Notebook](2%20-%20Project%20Car%20Price%20Predict/Project%20Car%20Price%20Predict.ipynb)</code>
 
 ### - Description - 
 The poject contains three datasets: a natural dataset that has been filled since 2014, a parsed dataset from 2019 and a test dataset from 2021. The total number of records is 254265. All three datasets have different values within the attributes/columns (according to the test dataset the columns count ~ 27). The project includes the following steps: import necessary libraries, defining the main functions, data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing the statistical significance (One-Way Anova), hypothesis testing (F-critical, T-critical and p-value - three methods included), measuring statistical factors, finding outliers, feature engineering, data visualization, testing five ML models with MAPE. Participation in the kaggle competition.
@@ -63,7 +63,7 @@ A predictive model has been created, the speed of processing requests has increa
 </br>
 
 ## 3 - Report Automation
-<code>[Script](Report%20Automation%20Script.py)</code>
+<code>[Script](3%20Report%20Automation%20Script.py)</code>
 
 ### - Description - 
 The National Bank issued a new decree on the reporting of trading operations of operating brokers in the country. To avoid manually assembling reports every weekend, I was instructed to collect the main queries according to the criteria satisfactory to the bank. It was also necessary to write a script, combining all query results into a single dataset, which would recalculate trade operations according to the national currency rate with the help of parsing and output a ready excel report. At the same time to set up a cheat sheet which bypassed the use of python path through cmd (company policy) - the solution was to run the compiler through a .bat file with the script I had written.
