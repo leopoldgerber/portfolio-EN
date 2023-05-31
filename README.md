@@ -120,3 +120,15 @@ Knowing the key selling locations of products and their category, it is possible
 
 ### 5 - Recommendation System
 <code>[Notebook 1: Analysis & Preprocessing](5%20-%20Recommendation%20System/1%20-%20Analysis%20&%20Preprocessing.ipynb)</code> <code>[Notebook 2: ML Models](5%20-%20Recommendation%20System/2%20-%20ML%20Models.ipynb)</code>
+
+### - Description - 
+The goal of the task is to increase profits (by 20%) by selling additional products on the online store platform. The available files include a dataset with historical events on the platform, hashed product property data and a category tree. To solve the problem the data were analyzed, processed and prepared for ML models. Six models were involved in the experiments.
+
+### - Skills - 
+data cleaning, data analysis, descriptive statistics, data visualization, feature engineering, machine learning, web-service, docker container
+
+### - Technology - 
+Python (data preprocessing, data preparation, feature engineering, ML models testing, pandas, numpy, matplotlib), Flask (web-service), Docker (containerization)
+
+### - Results - 
+Using technical metrics (MAP@K and RMSE), a model was selected for recommendations, and a cold start strategy was created. The model was wrapped in a web service and containerized. The map metric showed a result of 33%. The task is completed.
