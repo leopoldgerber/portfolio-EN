@@ -14,7 +14,7 @@ I created this repository to showcase my hard skills and track my progress in Da
 - [2 - Car Price Predict](#2---car-price-predict) (EDA, Feature Engineering, Machine Learning)
 - [3 - Report Automation](#3---report-automation) (MySQL, Python)
 - [4 - Sales Management](#4---sales-management) (SQL, EDA, Plotly Dash)
-- [5 - Recommendation System](#6---recommendation-system) (EDA, Feature Engineering, Machine Learning, Python)
+- [5 - Recommendation System](#5---recommendation-system) (EDA, Feature Engineering, Machine Learning, Python)
 
 </br>
 
