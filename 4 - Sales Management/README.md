@@ -16,3 +16,8 @@ Report with processed data. Interactive dashboard. Automation of the report.
 ### - Comments -
 Identify target warehouses/regions for merchandise sales. 
 Additional information welcomed.
+
+![alt text](https://github.com/leopoldgerber/portfolio/420%-20%Sales20%Management/Plotly20%Dash20%Screenshot.jpg?raw=true)
+![Alt text](Plotly Dash Screenshot.jpg?raw=true "Title")
+
+![Plotly Dash Screenshot](https://github.com/leopoldgerber/portfolio/assets/114569329/abcf040e-4637-49ba-932b-f1b38b5731fb)
