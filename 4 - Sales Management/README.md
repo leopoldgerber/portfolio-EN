@@ -1,5 +1,7 @@
 # Sales Management
 
+- [1 - Task information](#---objective---)
+
 ### - Objective -
 Increase profits by prioritizing the placement of goods in the warehouse area. Reduce the cost of transporting goods.
 
