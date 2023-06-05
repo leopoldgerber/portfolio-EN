@@ -42,6 +42,7 @@ Additional information welcomed.
 #### - The Mann-Whitney U test.
 ![image](https://github.com/leopoldgerber/portfolio/assets/114569329/75840b09-74d0-497c-ac07-8b95c3ef66e9)
 
+<br>
 
 ## Power BI
 ### - Customer Details -
