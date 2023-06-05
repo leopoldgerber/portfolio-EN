@@ -1,5 +1,9 @@
 # Sales Management
 
+<code>[Notebook](Sales%20Management.ipynb)</code>
+<code>[PlotlyDash (Files)](Plotly%20Dash/index.py)</code>
+<code>[Power BI](Sales%20Management%20Dashboard.pbix)</code>
+
 - [1 - Task information](#--objective--)
 - [2 - Examples from my notebook](#examples-from-my-notebook)
 - [3 - Power BI](#power-bi)
