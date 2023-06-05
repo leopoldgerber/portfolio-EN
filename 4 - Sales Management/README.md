@@ -5,13 +5,13 @@
 - [3 - Power BI](#power-bi)
 - [4 - Plotly Dash](#plotly-dash)
 
+<br>
+
 ### - Objective -
 Increase profits by prioritizing the placement of goods in the warehouse area. Reduce the cost of transporting goods.
 
-
 ### - Expected result -
 Report with processed data. Interactive dashboard. Automation of the report.
-
 
 ### - Technical tasks -
 - Data analysis
@@ -19,8 +19,6 @@ Report with processed data. Interactive dashboard. Automation of the report.
 - Feature engineering
 - Report automation
 - Visualization of data of goods on sale
-
-<br>
 
 ### - Comments -
 Identify target warehouses/regions for merchandise sales. 
