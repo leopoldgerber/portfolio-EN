@@ -2,6 +2,8 @@
 
 - [1 - Task information](#--objective--)
 - [2 - Examples from my notebook](#examples-from-my-notebook)
+- [3 - Power BI](#power-bi)
+- [4 - Plotly Dash](#plotly-dash)
 
 ### - Objective -
 Increase profits by prioritizing the placement of goods in the warehouse area. Reduce the cost of transporting goods.
