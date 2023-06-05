@@ -8,12 +8,10 @@
 ### - Objective -
 Increase profits by prioritizing the placement of goods in the warehouse area. Reduce the cost of transporting goods.
 
-<br>
 
 ### - Expected result -
 Report with processed data. Interactive dashboard. Automation of the report.
 
-<br>
 
 ### - Technical tasks -
 - Data analysis
