@@ -24,7 +24,8 @@ A family of scripts for automating reports on closed and open trades, deposits a
 - Report automation
 
 ### - NOTE -
-Due to commercial confidentiality, the data has been changed and key points have been removed. The reduction does not affect the skills shown.
+The project contains 4 scripts, each of which performs its individual assembly at different reporting times (weekly and monthly). All external queries are written individually according to the tasks of the report. The directory contains 2 shortened queries. Due to commercial confidentiality, the data has been changed and key points have been removed. The reduction does not affect the skills shown.
+
 
 <br>
 
@@ -36,3 +37,5 @@ The <b>mysql</b> library for connecting to a database. Using the <b>configuratio
 ![image](https://github.com/leopoldgerber/portfolio/assets/114569329/b916f91e-23ec-4957-9709-b15cc438a107)
 
 <br>
+
+### Script
