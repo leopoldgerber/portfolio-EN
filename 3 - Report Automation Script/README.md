@@ -43,3 +43,4 @@ Create and fill additional tables in the test base to optimize performance.
 
 ![image](https://github.com/leopoldgerber/portfolio/assets/114569329/27757d60-9db4-42ce-9f95-5eb4e5d06991)
 
+[Scroll up](#report-automation-script)
