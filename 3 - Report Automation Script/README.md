@@ -23,6 +23,13 @@ A family of scripts for automating reports on closed and open trades, deposits a
 - Feature engineering
 - Report automation
 
-### - Comments -
-Identify target warehouses/regions for merchandise sales. 
-Additional information welcomed.
+### - NOTE -
+Due to commercial confidentiality, the data has been changed and key points have been removed. The reduction does not affect the skills shown.
+
+<br>
+
+## Examples of scripts and queries
+### Script - The mysql library for connecting to a database. Using the configuration file to further connect all scripts to the same login source and due to the confidentiality of login data. Using an external query for convenient editing.
+
+![image](https://github.com/leopoldgerber/portfolio/assets/114569329/b916f91e-23ec-4957-9709-b15cc438a107)
+
