@@ -1,8 +1,11 @@
 # Report Automation Script
 
-<code>[Notebook](Sales%20Management.ipynb)</code>
-<code>[PlotlyDash (Files)](Plotly%20Dash/index.py)</code>
-<code>[Power BI](Sales%20Management%20Dashboard.pbix)</code>
+<code>[V7001](V7001.py)</code>
+<code>[V7001](V7002.py)</code>
+<code>[V7001](V7003.py)</code>
+<code>[V7001](V7004.py)</code>
+<code>[V7001_sql](V7001_sql.sql)</code>
+<code>[V7003_sql](V7003_sql.sql)</code>
 
 - [1 - Task information](#--objective--)
 - [2 - Examples from my notebook](#examples-from-my-notebook)
