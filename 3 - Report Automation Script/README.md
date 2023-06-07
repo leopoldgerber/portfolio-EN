@@ -31,7 +31,7 @@ Due to commercial confidentiality, the data has been changed and key points have
 ## Examples of scripts and queries
 ### Script
 
-The mysql library for connecting to a database. Using the configuration file to further connect all scripts to the same login source and due to the confidentiality of login data. Using an external query for convenient editing.
+The <b>mysql</b> library for connecting to a database. Using the <b>configuration</b> file to further connect all scripts to the same login source and due to the confidentiality of login data. Using an <b>external query</b> for convenient editing.
 
 ![image](https://github.com/leopoldgerber/portfolio/assets/114569329/b916f91e-23ec-4957-9709-b15cc438a107)
 
