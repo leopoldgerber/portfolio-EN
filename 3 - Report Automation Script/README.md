@@ -1,11 +1,11 @@
 # Report Automation Script
 
-<code>[V7001 Py](V7001.py)</code>
-<code>[V7002 Py](V7002.py)</code>
-<code>[V7003 Py](V7003.py)</code>
-<code>[V7004 Py](V7004.py)</code>
-<code>[V7001 SQL](v7001_sql.sql)</code>
-<code>[V7003 SQL](v7003_sql.sql)</code>
+<code>[V7001 (Py)](V7001.py)</code>
+<code>[V7002 (Py)](V7002.py)</code>
+<code>[V7003 (Py)](V7003.py)</code>
+<code>[V7004 (Py)](V7004.py)</code>
+<code>[V7001 (SQL)](v7001_sql.sql)</code>
+<code>[V7003 (SQL)](v7003_sql.sql)</code>
 
 - [1 - Task information](#--objective--)
 - [2 - Examples from my notebook](#examples-from-my-notebook)
