@@ -63,7 +63,12 @@ A predictive model has been created, the speed of processing requests has increa
 </br>
 
 ## 3 - Report Automation
-<code>[Script](3%20-%20Report%20Automation%20Script/Report%20Automation%20Script.py)</code>
+<code>[V7001 (Py)](3%20-%20Report%20Automation%20Script/V7001.py)</code>
+<code>[V7002 (Py)](3%20-%20Report%20Automation%20Script/V7002.py)</code>
+<code>[V7003 (Py)](3%20-%20Report%20Automation%20Script/V7003.py)</code>
+<code>[V7004 (Py)](3%20-%20Report%20Automation%20Script/V7004.py)</code>
+<code>[V7001 (SQL)](3%20-%20Report%20Automation%20Script/v7001_sql.sql)</code>
+<code>[V7003 (SQL)](3%20-%20Report%20Automation%20Script/v7003_sql.sql)</code>
 
 ### - Description - 
 The National Bank issued a new decree on the reporting of trading operations of operating brokers in the country. To avoid manually assembling reports every weekend, I was instructed to collect the main queries according to the criteria satisfactory to the bank. It was also necessary to write a script, combining all query results into a single dataset, which would recalculate trade operations according to the national currency rate with the help of parsing and output a ready excel report. At the same time to set up a cheat sheet which bypassed the use of python path through cmd (company policy) - the solution was to run the compiler through a .bat file with the script I had written.
