@@ -71,7 +71,7 @@ A predictive model has been created, the speed of processing requests has increa
 <code>[V7003 (SQL)](3%20-%20Report%20Automation%20Script/v7003_sql.sql)</code>
 
 ### - Description - 
-The National Bank issued a new decree on the reporting of trading operations of operating brokers in the country. To avoid manually assembling reports every weekend, I was instructed to collect the main queries according to the criteria satisfactory to the bank. It was also necessary to write a script, combining all query results into a single dataset, which would recalculate trade operations according to the national currency rate with the help of parsing and output a ready excel report. At the same time to set up a cheat sheet which bypassed the use of python path through cmd (company policy) - the solution was to run the compiler through a .bat file with the script I had written.
+A family of scripts for automating reports on closed and open trades, deposits and withdrawals, and hedge fund information for a national bank. A bot for sending reports to everyone assigned.
 
 ### - Skills - 
 SQL Query, report automation.
