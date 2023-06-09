@@ -12,7 +12,7 @@
 <br>
 
 ### - Objective -
-Increase profits by prioritizing the placement of goods in the warehouse area. Reduce the cost of transporting goods.
+Increase revenue through fast and profitable car resale.
 
 ### - Expected result -
 Report with processed data. Interactive dashboard. Automation of the report.
