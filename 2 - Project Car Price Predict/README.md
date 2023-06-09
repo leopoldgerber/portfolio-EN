@@ -22,15 +22,12 @@ Model that gives the current value of the car depending on the condition of the 
 <br>
 
 ## Examples from my notebook
-### Testing groups (with outliers) for normality of distribution using Shakiro-Wilk test. Visualizing the distribution with the Q-Q-Plot and applying the Mann-Whitney U test to groups with a non-normal distribution.  
+### An introduction to numerical features.  
 
 #### - Primary analysis:
 ![image](https://github.com/leopoldgerber/portfolio/assets/114569329/5b75393b-dc82-49bd-8a54-10b04a391798)
 
 #### - Price logarithmization:
 ![image](https://github.com/leopoldgerber/portfolio/assets/114569329/513dd61f-3ebc-4ac9-9383-4c7d3052893d)
-
-#### - The Mann-Whitney U test.
-![image](https://github.com/leopoldgerber/portfolio/assets/114569329/75840b09-74d0-497c-ac07-8b95c3ef66e9)
 
 [Scroll up](#sales-management)
