@@ -11,7 +11,7 @@
 Increase revenue through fast and profitable car resale.
 
 ### - Expected result -
-Model that gives the current value of the car depending on the condition of the car and its characteristics..
+Model that gives the current value of the car depending on the condition of the car and its characteristics.
 
 ### - Technical tasks -
 - Data analysis
