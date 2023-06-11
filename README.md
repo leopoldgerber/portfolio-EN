@@ -27,10 +27,10 @@ I created this repository to showcase my hard skills and track my progress in Da
 A parser script that collects data from the Semrush platform without using an API (is an optional service). The script runs on the chrome driver, logs into the platform and parses all the necessary reports. There are 28 reports per domain, including semiannual historical data (separated by months), all the information about the traffic: bounce, splits by devices, traffic source, unique users, conversion percentage, staying duration, search engine hits, backlinks etc.  The total number of reports is ~ 22 400, the output number of reports is 6. The script processes the empty reports, assigns the necessary attributes and generates new ones (missing indicators). The prepared reports are uploaded to the prepared dashboard to visualize all the data.
 
 ### - Results - 
-Automated collection of reports.  Visualized data - Dashboards. Thanks to parsing of historical data we managed to save on platform fees (monthly expenses for plan + tax and Traffic Analytics API + tax).
+Reporting automation. Data visualization. Thanks to parsing of historical data we managed to save on platform fees (monthly expenses for plan + tax and Traffic Analytics API + tax).
 
 ### - Skills -
-data parser, data cleaning, feature engineering, data visualization
+report automation, data parser, data cleaning, feature engineering, data visualization
 
 ### - Technology -
 Python, Pandas, Numpy, Selenium, Power BI
