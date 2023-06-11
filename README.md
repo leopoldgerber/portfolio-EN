@@ -94,7 +94,8 @@ Creation of a script to automate reporting.
 <code>[Power BI](4%20-%20Sales%20Management/Sales%20Management%20Dashboard.pbix)</code>
 
 ### - Description - 
-The project includes 4 datasets with the total number of rows 78 354 (customers, sales, products, calendar). Datasets contain information about online purchases, customers and product. Thanks to this we can find out the age of the target audience, the demand for products by customer, the local demand for product and much more. Two types of data visualization (dashboards) were created for convenience: in Power BI and HerokuApp.
+To increase profits by prioritizing the placement of goods in the storage area, it is necessary to set the profitability of goods by region. Additionally, the cost of transporting goods is reduced.
+For this purpose, a request was formed to unload the data. Collection, analysis and preprocessing was done using the python programming language. Dashboards in Power BI and the created web service were prepared.
 
 ### - Skills - 
 data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization, feature engineering, machine learning.
@@ -104,18 +105,7 @@ SQL (SSMS, clearing tables), Python (data preprocessing, data preparation for th
 Power BI (Creating an interactive dashboard), Heroku (Upload the Plotly Dash App)
 
 ### - Results - 
-Knowing the key selling locations of products and their category, it is possible to properly place the products in warehouses. This optimizes logistics (products are not wasted in warehouses), reduces the cost of transporting products here and there, and the advantage over competitors (speed of delivery increases).
-
-### - EDA (short) -
-- The data has been processed and cleared of unnecessary columns
-- The percentage of missing information was also checked.
-- Empty values have been partially restored. But some of the empty values had to be removed due to the lack of information on the prodcuts. Attempts were made to search for the same product by name, product id and categories.
-- Some of the empty values in the product value column were restored by finding the average value found using the general category and subcategory of similar products.
-- Datasets were combined with each other through special id keys
-- The analysis revealed the age of the target audience.
-- Cities with the highest demand are identified.
-- Identified products with the maximum demand for the general indicators and in each subcategory separately.
-- Create an interactive dashboard as an app and in Power BI
+Automated data collection, preprocessing of received data, updating dashboards for visualization.
 
 </br>
 
