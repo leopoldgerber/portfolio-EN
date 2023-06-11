@@ -27,6 +27,9 @@ A compilation of competitor traffic information broken down by country. All info
 ### - Comments -
 Add a traffic source and split traffic per device. Additional information is welcome.
 
+### - NOTE -
+Due to commercial confidentiality, the data has been changed and key points have been removed. The reduction does not affect the skills shown.
+
 <br>
 
 ## Examples from the parsing script
