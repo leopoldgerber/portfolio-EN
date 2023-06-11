@@ -45,7 +45,7 @@ Python, Pandas, Numpy, Selenium, Power BI
 <code>[Notebook](2%20-%20Project%20Car%20Price%20Predict/Project%20Car%20Price%20Predict.ipynb)</code>
 
 ### - Description - 
-The poject contains three datasets: a natural dataset that has been filled since 2014, a parsed dataset from 2019 and a test dataset from 2021. The total number of records is 254265. All three datasets have different values within the attributes/columns (according to the test dataset the columns count ~ 27). The project includes the following steps: import necessary libraries, defining the main functions, data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing the statistical significance (One-Way Anova), hypothesis testing (F-critical, T-critical and p-value - three methods included), measuring statistical factors, finding outliers, feature engineering, data visualization, testing five ML models with MAPE. Participation in the kaggle competition.
+Predict the price of the car taking into account the characteristics of the car. The model should improve the speed of car valuation and optimize the acceptance of cars for resale. Three datasets, compiled by different methods (manual and parsing) and in different years (from 2014 to 2021) were received for input. The project includes the following steps: data cleaning and preprocessing, filling in missing values, EDA (exploratory data analysis), hypothesis testing (F-critical, T-critical and p-value), statistical significance analysis (One-Way Anova), feature engineering, data visualization, experiment on five ML models.
 
 ### - Skills - 
 data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization, feature engineering, machine learning.
@@ -54,7 +54,7 @@ data cleaning, data analysis, descriptive statistics, central limit theorem, hyp
 Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels, Sklearn, CatBoost, RandomForestRegressor, ExtraTreesRegressor, XGBRegressor, StackingRegressor.
 
 ### - Results -
-A predictive model has been created, the speed of processing requests has increased - resulting in increased profits.
+A script for optimizing preprocessing. Model for predicting car prices.
 
 </br>
 
