@@ -24,30 +24,23 @@ Recommendation system with a MAP@K metric result of at least 20%. Cold Start Str
  
 <br>
 
-## Examples from my notebook
-### Testing groups (with outliers) for normality of distribution using Shakiro-Wilk test. Visualizing the distribution with the Q-Q-Plot and applying the Mann-Whitney U test to groups with a non-normal distribution.  
+## Examples from my notebook  
 
-#### - Outliers:
-![image](https://github.com/leopoldgerber/portfolio/assets/114569329/25ff51fe-96a0-4d8d-925a-960d3458be88)
+#### - Checking the stationarity of the time series with the Dickey-Fuller test
+![image](https://github.com/leopoldgerber/portfolio-EN/assets/114569329/7f3c876f-a1b7-474e-8bfa-19c11dd6b70d)
 
-#### - Shakiro-Wilk test & Q-Q-Plot
-![image](https://github.com/leopoldgerber/portfolio/assets/114569329/8e9a1645-40bf-4dc9-996e-25b822c44fb2)
+#### - Correlation matrix 
+![image](https://github.com/leopoldgerber/portfolio-EN/assets/114569329/878e9c4f-e82d-4d8e-9464-380121f3b80f)
 
-#### - The Mann-Whitney U test.
-![image](https://github.com/leopoldgerber/portfolio/assets/114569329/75840b09-74d0-497c-ac07-8b95c3ef66e9)
+
+#### - Collaborative filtering explanation
+![image](https://github.com/leopoldgerber/portfolio-EN/assets/114569329/f6df6f06-bbab-4c60-baa3-81af90d0c5eb)
+
+#### - Collaborative filtering MAP@K
+![image](https://github.com/leopoldgerber/portfolio-EN/assets/114569329/94cf7da2-d1f7-4598-9c21-09be9fa5356a)
 
 <br>
 
-## Power BI
-### - Customer Details -
-![Power BI 1](https://github.com/leopoldgerber/portfolio/assets/114569329/3d0f8a1f-f1b7-4f88-86c5-996bd3f15934)
-
-### - Product Details -
-![Power BI 2](https://github.com/leopoldgerber/portfolio/assets/114569329/c200835a-13b9-4a2d-97f3-9f3540f7e099)
-
-
-## Plotly Dash
-### - Sales Overview -
-![Plotly Dash Screenshot](https://github.com/leopoldgerber/portfolio/assets/114569329/abcf040e-4637-49ba-932b-f1b38b5731fb)
+## Web-Service (in progress)
 
 [Scroll up](#recommendation-system)
