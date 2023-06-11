@@ -1,13 +1,11 @@
 # Marketing Web Scraping
 
-<code>[Notebook](Sales%20Management.ipynb)</code>
-<code>[PlotlyDash (Files)](Plotly%20Dash/index.py)</code>
+<code>[Script](Marketing%20Web%20Scraping.py)</code>
 <code>[Power BI](Sales%20Management%20Dashboard.pbix)</code>
 
 - [1 - Task information](#--objective--)
 - [2 - Examples from my notebook](#examples-from-my-notebook)
 - [3 - Power BI](#power-bi)
-- [4 - Plotly Dash](#plotly-dash)
 
 <br>
 
@@ -31,7 +29,7 @@ Add a traffic source and split traffic per device. Additional information is wel
 
 <br>
 
-## Examples from my notebook
+## Examples from the parsing script
 ### Testing groups (with outliers) for normality of distribution using Shakiro-Wilk test. Visualizing the distribution with the Q-Q-Plot and applying the Mann-Whitney U test to groups with a non-normal distribution.  
 
 #### - Outliers:
@@ -47,14 +45,10 @@ Add a traffic source and split traffic per device. Additional information is wel
 
 ## Power BI
 ### - Traffic and unique users -
-
+![Power BI 1](https://github.com/leopoldgerber/portfolio/assets/114569329/1c03749e-250c-4923-8429-eea69e8a0a0a)
 
 ### - Traffic by device, traffic source and unique users -
+![Power BI 2](https://github.com/leopoldgerber/portfolio/assets/114569329/9ce434f9-38f5-4c7b-9c9b-51bcf620c801)
 
-
-
-## Plotly Dash
-### - Sales Overview -
-![Plotly Dash Screenshot](https://github.com/leopoldgerber/portfolio/assets/114569329/abcf040e-4637-49ba-932b-f1b38b5731fb)
 
 [Scroll up](#sales-management)
