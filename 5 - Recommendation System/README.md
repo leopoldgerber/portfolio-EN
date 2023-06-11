@@ -1,8 +1,7 @@
 # Recommendation System
 
-<code>[Notebook](1%20-%20Analysis%20&%20Preprocessing.ipynb)</code>
-<code>[PlotlyDash (Files)](Plotly%20Dash/index.py)</code>
-<code>[Power BI](Sales%20Management%20Dashboard.pbix)</code>
+<code>[1 - Analysis & Preprocessing](1%20-%20Analysis%20&%20Preprocessing.ipynb)</code>
+<code>[2 - ML Models](2%20-%20ML%20Models.ipynb)</code>
 
 - [1 - Task information](#--objective--)
 - [2 - Examples from my notebook](#examples-from-my-notebook)
