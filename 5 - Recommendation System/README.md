@@ -1,4 +1,4 @@
-# Sales Management
+# Recommendation System
 
 <code>[Notebook](Sales%20Management.ipynb)</code>
 <code>[PlotlyDash (Files)](Plotly%20Dash/index.py)</code>
@@ -56,4 +56,4 @@ Additional information welcomed.
 ### - Sales Overview -
 ![Plotly Dash Screenshot](https://github.com/leopoldgerber/portfolio/assets/114569329/abcf040e-4637-49ba-932b-f1b38b5731fb)
 
-[Scroll up](#sales-management)
+[Scroll up](#recommendation-system)
