@@ -33,16 +33,12 @@ Due to commercial confidentiality, the data has been changed and key points have
 <br>
 
 ## Examples from the parsing script
-### Testing groups (with outliers) for normality of distribution using Shakiro-Wilk test. Visualizing the distribution with the Q-Q-Plot and applying the Mann-Whitney U test to groups with a non-normal distribution.  
 
-#### - Outliers:
-![image](https://github.com/leopoldgerber/portfolio/assets/114569329/25ff51fe-96a0-4d8d-925a-960d3458be88)
+#### - Running the driver and trying to log in:
+![image](https://github.com/leopoldgerber/portfolio/assets/114569329/6899f621-414d-4a00-bb82-7c03242a59a4)
 
-#### - Shakiro-Wilk test & Q-Q-Plot
-![image](https://github.com/leopoldgerber/portfolio/assets/114569329/8e9a1645-40bf-4dc9-996e-25b822c44fb2)
-
-#### - The Mann-Whitney U test.
-![image](https://github.com/leopoldgerber/portfolio/assets/114569329/75840b09-74d0-497c-ac07-8b95c3ef66e9)
+#### - Converting data from reports
+![image](https://github.com/leopoldgerber/portfolio/assets/114569329/b1f3289f-6402-4c96-a6b3-d8a005ce57da)
 
 <br>
 
