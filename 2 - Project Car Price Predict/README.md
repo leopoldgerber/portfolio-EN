@@ -33,4 +33,4 @@ Model that gives the current value of the car depending on the condition of the 
 #### - Correlation matrix:
 ![image](https://github.com/leopoldgerber/portfolio/assets/114569329/9d01e0ac-5137-4925-b4a2-4562c85fb42c)
 
-[Scroll up](#sales-management)
+[Scroll up](#car-price-predict)
