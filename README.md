@@ -4,7 +4,7 @@ Hello, I'm Leopold Gerber - but you can call me Leo - and I am a Data Analyst/Da
 
 As a data analyst, I've faced many tasks, ranging from generating queries for uploading target groups and automating reports, to creating scripts for competitor analysis and models that calculate the risks of domestic currency conversion.
 
-My portfolio includes work projects and competition projects. 
+My portfolio contains work and competition projects. Each project contains a brief description of the task, technical objectives, expected results, comments (if any) and examples of work done. 
 I created this repository to showcase my hard skills and track my progress in Data Analytics / Data Science.
 
 </br>
