@@ -1,6 +1,6 @@
 # Recommendation System
 
-<code>[Notebook](Sales%20Management.ipynb)</code>
+<code>[Notebook](1%20-%20Analysis%20&%20Preprocessing.ipynb)</code>
 <code>[PlotlyDash (Files)](Plotly%20Dash/index.py)</code>
 <code>[Power BI](Sales%20Management%20Dashboard.pbix)</code>
 
