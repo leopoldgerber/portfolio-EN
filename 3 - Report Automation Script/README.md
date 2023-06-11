@@ -9,8 +9,6 @@
 
 - [1 - Task information](#--objective--)
 - [2 - Examples of scripts and queries](#examples-of-scripts-and-queries)
-- [3 - Power BI](#power-bi)
-- [4 - Plotly Dash](#plotly-dash)
 
 <br>
 
