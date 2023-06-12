@@ -51,9 +51,8 @@ Additional information welcomed.
 ### - Product Details -
 ![Power BI 2](https://github.com/leopoldgerber/portfolio/assets/114569329/c200835a-13b9-4a2d-97f3-9f3540f7e099)
 
-
 ## Plotly Dash
 ### - Sales Overview -
-![Plotly Dash Screenshot](https://github.com/leopoldgerber/portfolio/assets/114569329/abcf040e-4637-49ba-932b-f1b38b5731fb)
+![Plotly Dash](https://github.com/leopoldgerber/portfolio-EN/assets/114569329/2d954c89-cccb-498a-8935-2b69cf572793)
 
 [Scroll up](#sales-management)
