@@ -1,6 +1,6 @@
 # Setting up additional files
 
-### save_config.py
+### <code>save_config.py</code>
 Create and save a json file that contains database configuration. Should contains:
 - Username
 - Password
