@@ -34,13 +34,24 @@ Due to commercial confidentiality, the data has been changed and key points have
 
 <br>
 
-## Examples from the parsing script
+## More information about the used scripts:
 
-#### - Running the driver and trying to log in:
+#### 1 - Download Data
 
+The main script for downloading reports from an account on the platform. 
 
-#### - Converting data from reports
-![image](https://github.com/leopoldgerber/portfolio/assets/114569329/b1f3289f-6402-4c96-a6b3-d8a005ce57da)
+Emulates downloading a person, to bypass account blocking. Contains random values for the height of the scroll in both directions, making pauses between transitions and pauses before and after pressing buttons.
+Passes through each domain in turn with the reporting categories selected for it. The storage location of the downloaded reports is set by the user. The selected location will be used for further assembly of all reports, including the processing of these reports.
+
+#### 2 - Data Preprocessing
+
+Processing and combining all reports by category. Uses lists of successfully downloaded reports by domains and collects all reports together.
+The method of entering months is manual, it can be modified. It is also possible to upload a file with domains. Domains will be processed (some extra characters will be deleted, the list will be cleared of duplicates).
+All methods in the class are equal to categories. It is possible to select the desired categories/methods.
+
+#### 3 - DB Upload
+
+Responsible for loading data from the collected reports into the database. Includes connection to the database, processing of column names and types (for proper loading into the database).
 
 <br>
 
