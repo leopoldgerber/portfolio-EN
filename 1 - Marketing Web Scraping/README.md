@@ -1,5 +1,10 @@
 # Marketing Web Scraping
 
+<code>[1 - Download Data](1%20-%20Download%20Data.py)</code>
+<code>[2 - Data Preprocessing](Marketing%20Web%20Scraping.py)</code>
+<code>[3 - DB Upload](Marketing%20Web%20Scraping.py)</code>
+<code>[Power BI](Marketing%20Web%20Scraping%20Power%20BI%20Demo.pbix)</code>
+
 <code>[Script](Marketing%20Web%20Scraping.py)</code>
 <code>[Power BI](Marketing%20Web%20Scraping%20Power%20BI%20Demo.pbix)</code>
 
