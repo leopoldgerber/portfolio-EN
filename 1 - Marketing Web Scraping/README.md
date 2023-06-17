@@ -35,7 +35,7 @@ Due to commercial confidentiality, the data has been changed and key points have
 ## Examples from the parsing script
 
 #### - Running the driver and trying to log in:
-![image](https://github.com/leopoldgerber/portfolio/assets/114569329/6899f621-414d-4a00-bb82-7c03242a59a4)
+
 
 #### - Converting data from reports
 ![image](https://github.com/leopoldgerber/portfolio/assets/114569329/b1f3289f-6402-4c96-a6b3-d8a005ce57da)
