@@ -57,10 +57,12 @@ Responsible for loading data from the collected reports into the database. Inclu
 
 ## Power BI
 ### - Traffic and unique users -
-![Power BI 1](https://github.com/leopoldgerber/portfolio/assets/114569329/1c03749e-250c-4923-8429-eea69e8a0a0a)
+
+![Power BI 1](https://github.com/leopoldgerber/portfolio-EN/assets/114569329/dab62372-e34f-4ae8-800b-57329eac9fea)
 
 ### - Traffic by device, traffic source and unique users -
-![Power BI 2](https://github.com/leopoldgerber/portfolio/assets/114569329/9ce434f9-38f5-4c7b-9c9b-51bcf620c801)
+
+![Power BI 2](https://github.com/leopoldgerber/portfolio-EN/assets/114569329/45b30ae9-c3cd-44e9-a503-e95101a5fd19)
 
 
 [Scroll up](#marketing-web-scraping)
