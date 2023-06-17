@@ -31,12 +31,12 @@ Additional information welcomed.
 <br>
 
 ## Examples from my notebook
-### Testing groups (with outliers) for normality of distribution using Shakiro-Wilk test. Visualizing the distribution with the Q-Q-Plot and applying the Mann-Whitney U test to groups with a non-normal distribution.  
+### Testing groups (with outliers) for normality of distribution using Shapiro-Wilk test. Visualizing the distribution with the Q-Q-Plot and applying the Mann-Whitney U test to groups with a non-normal distribution.  
 
 #### - Outliers:
 ![image](https://github.com/leopoldgerber/portfolio/assets/114569329/25ff51fe-96a0-4d8d-925a-960d3458be88)
 
-#### - Shakiro-Wilk test & Q-Q-Plot
+#### - Shapiro-Wilk test & Q-Q-Plot
 ![image](https://github.com/leopoldgerber/portfolio/assets/114569329/8e9a1645-40bf-4dc9-996e-25b822c44fb2)
 
 #### - The Mann-Whitney U test.
